@@ -1,0 +1,23 @@
+# Compiled binary
+shell
+
+# Object files
+*.o
+
+# Build artifacts
+/build/
+/bin/
+
+# VSCode settings
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Makefile backup
+*~
+
+# Logs or temp
+*.log
+*.tmp

@@ -1,6 +1,8 @@
 #include <stdio.h>
 
+#define MAX_LINE 1024
+
 int main () {
-    printf("Hello, World!\n");
+    char line[MAX_LINE];
     return 0;
 }
