@@ -1,5 +1,14 @@
 {
     "files.associations": {
-        "stdio.h": "c"
-    }
+        "stdio.h": "c",
+        "cstdlib": "c",
+        "stdlib.h": "c",
+        "sched.h": "c",
+        "string.h": "c",
+        "string": "c",
+        "istream": "c",
+        "streambuf": "c",
+        "limits.h": "c",
+        "dirent.h": "c"
+    },
 }
